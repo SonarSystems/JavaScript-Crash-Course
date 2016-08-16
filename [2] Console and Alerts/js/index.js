@@ -1,0 +1,1 @@
+console.log( "Hello this is a log to the console using an external file" );
